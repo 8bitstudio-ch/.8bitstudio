@@ -13,6 +13,6 @@ curl -o .editorconfig https://raw.githubusercontent.com/8bitstudio-ch/.8bitstudi
 ```
 
 ```bash
-prettier web/app/themes/sage/resources --check
+npx prettier web/app/themes/sage/resources --check
 ```
 
